@@ -1,0 +1,16 @@
+[
+  {
+    "id": "subject_001",
+    "subjectName": "Contract Law",
+    "semester": "Semester 1",
+    "course": "3 Years LLB",
+    "isActive": true
+  },
+  {
+    "id": "subject_002",
+    "subjectName": "Constitutional Law",
+    "semester": "Semester 1",
+    "course": "3 Years LLB",
+    "isActive": true
+  }
+]
