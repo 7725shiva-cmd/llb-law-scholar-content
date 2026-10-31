@@ -1,0 +1,15 @@
+[
+  {
+    "id": "q001",
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "option_a": "Mahatma Gandhi",
+    "option_b": "Dr. B. R. Ambedkar",
+    "option_c": "Jawaharlal Nehru",
+    "option_d": "Sardar Patel",
+    "correct_answer": "B",
+    "explanation": "Dr. B. R. Ambedkar is known as the chief architect of the Indian Constitution.",
+    "subject": "Constitutional Law",
+    "semester": "Semester 1",
+    "isActive": true
+  }
+]
