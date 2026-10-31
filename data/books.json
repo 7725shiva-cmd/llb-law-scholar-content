@@ -1,0 +1,24 @@
+[
+  {
+    "id": "book_001",
+    "title": "Contract Law",
+    "subject": "Contract Law",
+    "semester": "Semester 1",
+    "course": "3 Years LLB",
+    "description": "Contract Law Study Material",
+    "fileUrl": "",
+    "contentType": "pdf",
+    "isActive": true
+  },
+  {
+    "id": "book_002",
+    "title": "Constitutional Law",
+    "subject": "Constitutional Law",
+    "semester": "Semester 1",
+    "course": "3 Years LLB",
+    "description": "Constitutional Law Study Material",
+    "fileUrl": "",
+    "contentType": "pdf",
+    "isActive": true
+  }
+]
